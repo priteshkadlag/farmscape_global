@@ -1,0 +1,714 @@
+{
+  "migrated": {
+    "/media/brand/formscape-global-logo.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/11/Mask-group-16.png",
+      "bytes": 30062,
+      "width": 428,
+      "height": 100
+    },
+    "/media/brand/formscape-global-logo-on-indigo.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/10/image-15.png",
+      "bytes": 25610,
+      "width": 718,
+      "height": 315
+    },
+    "/media/brand/formscape-global-mark.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/10/android-chrome-512x512-1.png",
+      "bytes": 52443,
+      "width": 512,
+      "height": 512
+    },
+    "/media/logos/affiliation-acce-india.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/acce-1.png",
+      "bytes": 9328,
+      "width": 300,
+      "height": 100
+    },
+    "/media/logos/affiliation-insdag.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/steel.png",
+      "bytes": 6965,
+      "width": 300,
+      "height": 100
+    },
+    "/media/logos/affiliation-institution-of-engineers-india.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/11/institute.jpg",
+      "bytes": 5569,
+      "width": 300,
+      "height": 100
+    },
+    "/media/logos/client-roheet-hede-associates.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/1.jpg",
+      "bytes": 6751,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-alpha-aqua.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/2.jpg",
+      "bytes": 5952,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-darashaw.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/3.jpg",
+      "bytes": 3085,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-3b-fibreglass.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/3-b.png",
+      "bytes": 6221,
+      "width": 382,
+      "height": 132
+    },
+    "/media/logos/client-planet-hollywood.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-3.png",
+      "bytes": 9451,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-caculo.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/caculo.png",
+      "bytes": 5744,
+      "width": 225,
+      "height": 225
+    },
+    "/media/logos/client-depth.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-2.png",
+      "bytes": 1275,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-pai-kane-group.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/pai-kane-logo.png",
+      "bytes": 4558,
+      "width": 101,
+      "height": 105
+    },
+    "/media/logos/client-siemens.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/siemnens.png",
+      "bytes": 2058,
+      "width": 300,
+      "height": 168
+    },
+    "/media/logos/client-isprava.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-1.png",
+      "bytes": 7872,
+      "width": 260,
+      "height": 105
+    },
+    "/media/logos/client-yanni-infraprojects.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/yanni-infra.jpg",
+      "bytes": 7659,
+      "width": 417,
+      "height": 121
+    },
+    "/media/logos/client-mvr.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/mvr-infra-logo.png",
+      "bytes": 4937,
+      "width": 181,
+      "height": 140
+    },
+    "/media/logos/client-axiom-design.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-26-at-3.51.28-PM-1.png",
+      "bytes": 2652,
+      "width": 190,
+      "height": 80
+    },
+    "/media/logos/client-rajdeep-builders.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-26-at-3.51.31-PM-3.png",
+      "bytes": 9903,
+      "width": 190,
+      "height": 80
+    },
+    "/media/logos/client-mohidin-properties.png": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-26-at-3.51.32-PM.png",
+      "bytes": 12205,
+      "width": 190,
+      "height": 80
+    },
+    "/media/team/nayan-jivan-fatania.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-4.jpg",
+      "bytes": 6816,
+      "width": 143,
+      "height": 234
+    },
+    "/media/team/lahira-salkar-fatania.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-1.jpg",
+      "bytes": 6216,
+      "width": 143,
+      "height": 234
+    },
+    "/media/team/formscape-global-team.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/11/IMG-20241026-WA0043.png",
+      "bytes": 66156,
+      "width": 600,
+      "height": 400
+    },
+    "/media/team/formscape-global-site-team.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/DRB09118-2-min.jpg",
+      "bytes": 517737,
+      "width": 2400,
+      "height": 1600
+    },
+    "/media/about/directors-at-office.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-2.jpg",
+      "bytes": 210707,
+      "width": 1321,
+      "height": 2048
+    },
+    "/media/about/formscape-global-project-collage.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/Formscape-photo-collage-1.jpg",
+      "bytes": 236968,
+      "width": 1600,
+      "height": 1890
+    },
+    "/media/services/structural-design-lattice-roof.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-06-at-9.57.56-AM.jpeg",
+      "bytes": 393069,
+      "width": 1600,
+      "height": 1200
+    },
+    "/media/services/fabrication-drawings-steel-roof.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/IMG_7163.jpg",
+      "bytes": 660401,
+      "width": 2400,
+      "height": 1800
+    },
+    "/media/services/steel-structures.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/Steel-Structures.jpg",
+      "bytes": 273083,
+      "width": 1233,
+      "height": 941
+    },
+    "/media/services/composite-structures.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/Composite-Structures.jpg",
+      "bytes": 217166,
+      "width": 1233,
+      "height": 941
+    },
+    "/media/services/liquid-retaining-structures.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/Liquid-Retaining-Structures.jpg",
+      "bytes": 230781,
+      "width": 1233,
+      "height": 941
+    },
+    "/media/services/machine-foundations.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/Machine-Foundations.jpg",
+      "bytes": 241570,
+      "width": 1233,
+      "height": 941
+    },
+    "/media/services/value-engineering.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/value-engineers.jpg",
+      "bytes": 223080,
+      "width": 1233,
+      "height": 941
+    },
+    "/media/methodology/residential-villa-completed.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/New-Project-5.jpg",
+      "bytes": 195480,
+      "width": 1152,
+      "height": 864
+    },
+    "/media/methodology/steel-frame-erection.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/Kia-Moters1-1.jpg",
+      "bytes": 113852,
+      "width": 974,
+      "height": 730
+    },
+    "/media/methodology/industrial-building-under-construction.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/New-Project-6.jpg",
+      "bytes": 156142,
+      "width": 1152,
+      "height": 864
+    },
+    "/media/methodology/industrial-building-facade.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/09/New-Project-7.jpg",
+      "bytes": 129620,
+      "width": 1152,
+      "height": 864
+    },
+    "/media/drawings/rcc-detail-sheet-01.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-1.jpg",
+      "bytes": 106851,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-02.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-2.jpg",
+      "bytes": 85101,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-03.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-3.jpg",
+      "bytes": 63585,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-04.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-4.jpg",
+      "bytes": 140655,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-05.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-5.jpg",
+      "bytes": 146304,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-06.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-6.jpg",
+      "bytes": 75458,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/rcc-detail-sheet-07.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/RCC-Detail-page-7.jpg",
+      "bytes": 86903,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/structural-detail-sheet-01.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Structural-Detail-page-1.jpg",
+      "bytes": 109402,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/structural-detail-sheet-02.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Structural-Detail-page-2.jpg",
+      "bytes": 122330,
+      "width": 1086,
+      "height": 768
+    },
+    "/media/drawings/structural-detail-sheet-03.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Structural-Detail-page-3.jpg",
+      "bytes": 116436,
+      "width": 1086,
+      "height": 768
+    },
+    "/downloads/formscape-global-company-profile.pdf": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2024/09/Formscape-Global-Company-Profile.pdf",
+      "bytes": 7812568
+    },
+    "/media/projects/serraulim-villa-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/SERRAULIM-villas.jpeg",
+      "bytes": 254160,
+      "width": 1000,
+      "height": 1000
+    },
+    "/media/projects/serraulim-villa-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-7.jpg",
+      "bytes": 57294,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/serraulim-villa-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/3-3.jpg",
+      "bytes": 128805,
+      "width": 988,
+      "height": 564
+    },
+    "/media/projects/sarjyotishis-wada-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Sarjyotishis-Wadda.jpg",
+      "bytes": 465475,
+      "width": 1200,
+      "height": 1200
+    },
+    "/media/projects/villas-at-parra-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Parra-Villa-3-1.jpg",
+      "bytes": 580554,
+      "width": 1500,
+      "height": 1500
+    },
+    "/media/projects/villas-at-parra-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-5.jpg",
+      "bytes": 55624,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/kings-mansion-candolim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/Kings-Mansion.jpeg",
+      "bytes": 230540,
+      "width": 1200,
+      "height": 1200
+    },
+    "/media/projects/hvac-plant-binani-colvale-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/10/HVACplant-Binnai.jpeg",
+      "bytes": 269070,
+      "width": 1200,
+      "height": 1200
+    },
+    "/media/projects/roof-over-radiology-department-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/eca1ca50-fd24-456b-8355-096cbbe42f7f.jpg",
+      "bytes": 105550,
+      "width": 1091,
+      "height": 818
+    },
+    "/media/projects/guest-house-bogmalo-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_1163.jpg",
+      "bytes": 334626,
+      "width": 1227,
+      "height": 920
+    },
+    "/media/projects/structural-roof-mvr-bambolim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_7161.jpg",
+      "bytes": 659478,
+      "width": 2400,
+      "height": 1800
+    },
+    "/media/projects/karaswada-roof-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_8289.jpg",
+      "bytes": 177844,
+      "width": 690,
+      "height": 920
+    },
+    "/media/projects/lester-house-candolim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_6932.jpg",
+      "bytes": 104907,
+      "width": 548,
+      "height": 730
+    },
+    "/media/projects/factory-pai-kane-banda-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/Factory-for-PAI-KANE-1.jpeg",
+      "bytes": 124739,
+      "width": 750,
+      "height": 750
+    },
+    "/media/projects/hede-roof-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_5784.jpg",
+      "bytes": 177170,
+      "width": 1131,
+      "height": 730
+    },
+    "/media/projects/saptkoteshwar-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_2684.jpg",
+      "bytes": 170309,
+      "width": 1165,
+      "height": 655
+    },
+    "/media/projects/thivim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_9515.jpg",
+      "bytes": 404506,
+      "width": 1227,
+      "height": 920
+    },
+    "/media/projects/candolim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/New-Project-5.jpg",
+      "bytes": 59801,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/industrial-shed-corlim-idc-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-06-07-at-7.55.09-PM-1.jpeg",
+      "bytes": 212325,
+      "width": 1586,
+      "height": 797
+    },
+    "/media/projects/industrial-shed-corlim-idc-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/Corlim-IDC.jpeg",
+      "bytes": 123796,
+      "width": 700,
+      "height": 700
+    },
+    "/media/projects/ravindra-bhavan-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/08/IMG_2665.jpg",
+      "bytes": 200320,
+      "width": 1227,
+      "height": 920
+    },
+    "/media/projects/sarjyotishis-house-renovation-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-12.jpg",
+      "bytes": 96779,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/sarjyotishis-house-renovation-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-10.jpg",
+      "bytes": 184268,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/sarjyotishis-house-renovation-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/3-5.jpg",
+      "bytes": 160048,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/villas-verla-canca-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/verla-villas-2-1.jpeg",
+      "bytes": 444995,
+      "width": 1200,
+      "height": 1200
+    },
+    "/media/projects/villas-verla-canca-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-9.jpg",
+      "bytes": 27589,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/villas-verla-canca-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/3-4.jpg",
+      "bytes": 49373,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/villas-verla-canca-4.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/4.jpg",
+      "bytes": 73901,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/villas-verla-canca-5.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/5.jpg",
+      "bytes": 154817,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/villas-verla-canca-6.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/6.jpg",
+      "bytes": 174431,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/villas-verla-canca-7.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/7-1.jpg",
+      "bytes": 49373,
+      "width": 1054,
+      "height": 571
+    },
+    "/media/projects/sherwyns-house-bastora-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-8.jpg",
+      "bytes": 48357,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/sherwyns-house-bastora-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-9.jpg",
+      "bytes": 62426,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/sherwyns-house-bastora-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-8.jpg",
+      "bytes": 60809,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/goa-sintered-products-verna-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-6.jpg",
+      "bytes": 55421,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/villas-at-verla-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-7.jpg",
+      "bytes": 43900,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/villa-at-siolim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/9D871B51-33CA-497C-8F70-1492377E7704_1_105_c.jpeg",
+      "bytes": 195021,
+      "width": 1129,
+      "height": 696
+    },
+    "/media/projects/villa-at-siolim-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-4.jpg",
+      "bytes": 86673,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/exhaust-stack-tower-mopa-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-15.jpg",
+      "bytes": 28970,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/exhaust-stack-tower-mopa-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-6.jpg",
+      "bytes": 45825,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/bungalow-roof-ribandar-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-14.jpg",
+      "bytes": 71320,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/bungalow-roof-ribandar-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-4.jpg",
+      "bytes": 69662,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/radiology-roof-gmc-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-3.jpg",
+      "bytes": 50315,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/radiology-roof-gmc-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-13.jpg",
+      "bytes": 36223,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/shed-banda-pai-kane-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/5E9C36EE-D573-4494-A297-7221CB16E72E_1_105_c.jpeg",
+      "bytes": 225706,
+      "width": 839,
+      "height": 936
+    },
+    "/media/projects/shed-banda-pai-kane-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-11.jpg",
+      "bytes": 56316,
+      "width": 550,
+      "height": 550
+    },
+    "/media/projects/exhaust-stack-tower-visakhapatnam-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-copy.jpg",
+      "bytes": 37937,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/dry-mix-plant-banda-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-3.jpg",
+      "bytes": 35787,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/dry-mix-plant-banda-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-5.jpg",
+      "bytes": 46168,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/swimming-pool-design-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-2.jpg",
+      "bytes": 63968,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/swimming-pool-roof-campal-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/3-2.jpg",
+      "bytes": 42990,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/swimming-pool-roof-campal-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/IMG_6425-1.jpg",
+      "bytes": 138552,
+      "width": 1024,
+      "height": 768
+    },
+    "/media/projects/swimming-pool-roof-campal-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/IMG_6425F-1.jpg",
+      "bytes": 165752,
+      "width": 1227,
+      "height": 540
+    },
+    "/media/projects/latambarcem-breweries-bicholim-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/07/New-Project-6.jpg",
+      "bytes": 38900,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/latambarcem-breweries-bicholim-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1-1.jpg",
+      "bytes": 36050,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/latambarcem-breweries-bicholim-3.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-2.jpg",
+      "bytes": 73467,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/latambarcem-breweries-bicholim-4.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/3-1.jpg",
+      "bytes": 47107,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/kia-showroom-verna-1.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/1.jpg",
+      "bytes": 35831,
+      "width": 500,
+      "height": 500
+    },
+    "/media/projects/kia-showroom-verna-2.jpg": {
+      "source": "https://formscapeglobal.com/wp-content/uploads/2023/06/2-1.jpg",
+      "bytes": 60617,
+      "width": 500,
+      "height": 500
+    },
+    "/media/brand/formscape-global-logo-white.png": {
+      "source": "derived from /media/brand/formscape-global-logo.png",
+      "width": 428,
+      "height": 100,
+      "bytes": 11780
+    }
+  },
+  "notMigrated": [
+    {
+      "from": "2024/10/building-construction-ideas-concept-2024-07-17-21-35-39-utc.mp4",
+      "reason": "Generic stock blueprint animation used as the old hero background. Replaced by a real project photograph (MVR structural roof). Re-add only if the stock licence is confirmed."
+    },
+    {
+      "from": "2024/10/Copy-of-Copy-of-Formscape-Brand-Film-4th-Draft-1-1.mp4",
+      "reason": "115 MB brand film. Served via the existing YouTube embed (S2B9tCRsDvo) instead of self-hosting."
+    },
+    {
+      "from": "2023/07/white-formscape.png",
+      "reason": "Legacy 'Formscape Engineers LLP' logo — superseded by the Formscape Global mark."
+    },
+    {
+      "from": "2023/06/Logo-png.png",
+      "reason": "Legacy logo variant."
+    },
+    {
+      "from": "2023/07/Coderix-White.png",
+      "reason": "Template vendor branding."
+    },
+    {
+      "from": "2021/02/modern-white-apartment-house-with-metal-balconies-6CPSBRF-1-2-1.jpg",
+      "reason": "WordPress theme demo stock photo (licence unknown). Replaced with a sample drawing for Proof Checking."
+    },
+    {
+      "from": "2021/02/img-2-1.jpg",
+      "reason": "Theme demo stock photo attached to placeholder copy."
+    },
+    {
+      "from": "2021/02/office-building-X275FAF-1-2.jpg",
+      "reason": "Theme demo stock photo attached to placeholder copy."
+    },
+    {
+      "from": "2023/10/QUERIES-FORMSCAPE.jpg",
+      "reason": "Promotional banner with baked-in text; its contact details are rendered as real text instead."
+    },
+    {
+      "from": "2023/08/testimg.jpg",
+      "reason": "Decorative testimonial background."
+    },
+    {
+      "from": "2024/10/1-FS.svg, 2FS.svg, 3FS.svg",
+      "reason": "Decorative icons with opaque white backgrounds; replaced by the new icon set."
+    },
+    {
+      "from": "2023/10/archetectn.png, location.png, area.png, Columns.png, Lattice.png; Connections.webp",
+      "reason": "UI icons for project spec labels; replaced by the new icon set."
+    },
+    {
+      "from": "2023/06/FAVICON-1.png",
+      "reason": "Superseded by the 512px brand mark."
+    },
+    {
+      "from": "elementor/thumbs/*",
+      "reason": "Elementor-generated crops — originals migrated instead."
+    }
+  ]
+}

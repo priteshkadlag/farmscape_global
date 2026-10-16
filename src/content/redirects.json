@@ -1,0 +1,146 @@
+[
+  {
+    "source": "/our-projects",
+    "destination": "/projects"
+  },
+  {
+    "source": "/completed-projects",
+    "destination": "/projects/completed"
+  },
+  {
+    "source": "/ongoing-projects",
+    "destination": "/projects/ongoing"
+  },
+  {
+    "source": "/projects/14-villa-g2-verla-canca",
+    "destination": "/projects/villas-verla-canca"
+  },
+  {
+    "source": "/projects/7-row-villas-serraulim-margao",
+    "destination": "/projects/serraulim-villa"
+  },
+  {
+    "source": "/projects/car-port-at-molbio-diagnostic-verna-goa",
+    "destination": "/projects/kia-showroom-verna"
+  },
+  {
+    "source": "/projects/design-of-dry-mix-plant-at-banda",
+    "destination": "/projects/dry-mix-plant-banda"
+  },
+  {
+    "source": "/projects/design-of-g1-villas-parra",
+    "destination": "/projects/villas-at-parra"
+  },
+  {
+    "source": "/projects/exhaust-stack-tower-at-mopa-height-30m",
+    "destination": "/projects/exhaust-stack-tower-mopa"
+  },
+  {
+    "source": "/projects/exhaust-stack-tower-at-visakhapatnam-port-height-30m",
+    "destination": "/projects/exhaust-stack-tower-visakhapatnam"
+  },
+  {
+    "source": "/projects/industrial-building-for-goa-sincters-verna-idc-goa",
+    "destination": "/projects/goa-sintered-products-verna"
+  },
+  {
+    "source": "/projects/latambarcem-breweries-pvt-ltd-bicholim",
+    "destination": "/projects/latambarcem-breweries-bicholim"
+  },
+  {
+    "source": "/projects/proposed-renovation-of-sarjyotishis-house-kavlem-pondagoa",
+    "destination": "/projects/sarjyotishis-house-renovation"
+  },
+  {
+    "source": "/projects/refurbishment-of-existing-swimming-pool-roof-at-campal",
+    "destination": "/projects/swimming-pool-roof-campal"
+  },
+  {
+    "source": "/projects/shed-at-banda-for-pai-kane-and-group",
+    "destination": "/projects/shed-banda-pai-kane"
+  },
+  {
+    "source": "/projects/sherwyns-house-at-bastora",
+    "destination": "/projects/sherwyns-house-bastora"
+  },
+  {
+    "source": "/projects/structural-roof-for-radiology-department-at-gmc-goa",
+    "destination": "/projects/radiology-roof-gmc"
+  },
+  {
+    "source": "/projects/structural-roof-of-bungalow-for-arch-roheet-hede",
+    "destination": "/projects/bungalow-roof-ribandar"
+  },
+  {
+    "source": "/projects/design-of-swimming-pool",
+    "destination": "/projects/swimming-pool-design"
+  },
+  {
+    "source": "/wp-content/uploads/2024/09/Formscape-Global-Company-Profile.pdf",
+    "destination": "/downloads/formscape-global-company-profile.pdf"
+  },
+  {
+    "source": "/home1",
+    "destination": "/"
+  },
+  {
+    "source": "/home-new",
+    "destination": "/"
+  },
+  {
+    "source": "/our-team",
+    "destination": "/about-us#team"
+  },
+  {
+    "source": "/get-in-touch",
+    "destination": "/contact-us"
+  },
+  {
+    "source": "/sample-drawings",
+    "destination": "/sample-drawing"
+  },
+  {
+    "source": "/single-service",
+    "destination": "/bespoke-services"
+  },
+  {
+    "source": "/single-service-2",
+    "destination": "/bespoke-services"
+  },
+  {
+    "source": "/single-project-b",
+    "destination": "/projects"
+  },
+  {
+    "source": "/careers",
+    "destination": "/contact-us"
+  },
+  {
+    "source": "/faq",
+    "destination": "/contact-us"
+  },
+  {
+    "source": "/blog",
+    "destination": "/"
+  },
+  {
+    "source": "/slider",
+    "destination": "/"
+  },
+  {
+    "source": "/test",
+    "destination": "/"
+  },
+  {
+    "source": "/cart",
+    "destination": "/"
+  },
+  {
+    "source": "/sample-page",
+    "destination": "/"
+  },
+  {
+    "source": "/coming-soon-page",
+    "destination": "/"
+  }
+]

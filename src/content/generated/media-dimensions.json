@@ -1,0 +1,434 @@
+{
+  "/media/brand/formscape-global-logo.png": {
+    "width": 428,
+    "height": 100
+  },
+  "/media/brand/formscape-global-logo-on-indigo.png": {
+    "width": 718,
+    "height": 315
+  },
+  "/media/brand/formscape-global-mark.png": {
+    "width": 512,
+    "height": 512
+  },
+  "/media/logos/affiliation-acce-india.png": {
+    "width": 300,
+    "height": 100
+  },
+  "/media/logos/affiliation-insdag.png": {
+    "width": 300,
+    "height": 100
+  },
+  "/media/logos/affiliation-institution-of-engineers-india.jpg": {
+    "width": 300,
+    "height": 100
+  },
+  "/media/logos/client-roheet-hede-associates.jpg": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-alpha-aqua.jpg": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-darashaw.jpg": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-3b-fibreglass.png": {
+    "width": 382,
+    "height": 132
+  },
+  "/media/logos/client-planet-hollywood.png": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-caculo.png": {
+    "width": 225,
+    "height": 225
+  },
+  "/media/logos/client-depth.png": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-pai-kane-group.png": {
+    "width": 101,
+    "height": 105
+  },
+  "/media/logos/client-siemens.png": {
+    "width": 300,
+    "height": 168
+  },
+  "/media/logos/client-isprava.png": {
+    "width": 260,
+    "height": 105
+  },
+  "/media/logos/client-yanni-infraprojects.jpg": {
+    "width": 417,
+    "height": 121
+  },
+  "/media/logos/client-mvr.png": {
+    "width": 181,
+    "height": 140
+  },
+  "/media/logos/client-axiom-design.png": {
+    "width": 190,
+    "height": 80
+  },
+  "/media/logos/client-rajdeep-builders.png": {
+    "width": 190,
+    "height": 80
+  },
+  "/media/logos/client-mohidin-properties.png": {
+    "width": 190,
+    "height": 80
+  },
+  "/media/team/nayan-jivan-fatania.jpg": {
+    "width": 143,
+    "height": 234
+  },
+  "/media/team/lahira-salkar-fatania.jpg": {
+    "width": 143,
+    "height": 234
+  },
+  "/media/team/formscape-global-team.jpg": {
+    "width": 600,
+    "height": 400
+  },
+  "/media/team/formscape-global-site-team.jpg": {
+    "width": 2400,
+    "height": 1600
+  },
+  "/media/about/directors-at-office.jpg": {
+    "width": 1321,
+    "height": 2048
+  },
+  "/media/about/formscape-global-project-collage.jpg": {
+    "width": 1600,
+    "height": 1890
+  },
+  "/media/services/structural-design-lattice-roof.jpg": {
+    "width": 1600,
+    "height": 1200
+  },
+  "/media/services/fabrication-drawings-steel-roof.jpg": {
+    "width": 2400,
+    "height": 1800
+  },
+  "/media/services/steel-structures.jpg": {
+    "width": 1233,
+    "height": 941
+  },
+  "/media/services/composite-structures.jpg": {
+    "width": 1233,
+    "height": 941
+  },
+  "/media/services/liquid-retaining-structures.jpg": {
+    "width": 1233,
+    "height": 941
+  },
+  "/media/services/machine-foundations.jpg": {
+    "width": 1233,
+    "height": 941
+  },
+  "/media/services/value-engineering.jpg": {
+    "width": 1233,
+    "height": 941
+  },
+  "/media/methodology/residential-villa-completed.jpg": {
+    "width": 1152,
+    "height": 864
+  },
+  "/media/methodology/steel-frame-erection.jpg": {
+    "width": 974,
+    "height": 730
+  },
+  "/media/methodology/industrial-building-under-construction.jpg": {
+    "width": 1152,
+    "height": 864
+  },
+  "/media/methodology/industrial-building-facade.jpg": {
+    "width": 1152,
+    "height": 864
+  },
+  "/media/drawings/rcc-detail-sheet-01.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-02.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-03.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-04.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-05.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-06.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/rcc-detail-sheet-07.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/structural-detail-sheet-01.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/structural-detail-sheet-02.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/drawings/structural-detail-sheet-03.jpg": {
+    "width": 1086,
+    "height": 768
+  },
+  "/media/projects/serraulim-villa-1.jpg": {
+    "width": 1000,
+    "height": 1000
+  },
+  "/media/projects/serraulim-villa-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/serraulim-villa-3.jpg": {
+    "width": 988,
+    "height": 564
+  },
+  "/media/projects/sarjyotishis-wada-1.jpg": {
+    "width": 1200,
+    "height": 1200
+  },
+  "/media/projects/villas-at-parra-1.jpg": {
+    "width": 1500,
+    "height": 1500
+  },
+  "/media/projects/villas-at-parra-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/kings-mansion-candolim-1.jpg": {
+    "width": 1200,
+    "height": 1200
+  },
+  "/media/projects/hvac-plant-binani-colvale-1.jpg": {
+    "width": 1200,
+    "height": 1200
+  },
+  "/media/projects/roof-over-radiology-department-1.jpg": {
+    "width": 1091,
+    "height": 818
+  },
+  "/media/projects/guest-house-bogmalo-1.jpg": {
+    "width": 1227,
+    "height": 920
+  },
+  "/media/projects/structural-roof-mvr-bambolim-1.jpg": {
+    "width": 2400,
+    "height": 1800
+  },
+  "/media/projects/karaswada-roof-1.jpg": {
+    "width": 690,
+    "height": 920
+  },
+  "/media/projects/lester-house-candolim-1.jpg": {
+    "width": 548,
+    "height": 730
+  },
+  "/media/projects/factory-pai-kane-banda-1.jpg": {
+    "width": 750,
+    "height": 750
+  },
+  "/media/projects/hede-roof-1.jpg": {
+    "width": 1131,
+    "height": 730
+  },
+  "/media/projects/saptkoteshwar-1.jpg": {
+    "width": 1165,
+    "height": 655
+  },
+  "/media/projects/thivim-1.jpg": {
+    "width": 1227,
+    "height": 920
+  },
+  "/media/projects/candolim-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/industrial-shed-corlim-idc-1.jpg": {
+    "width": 1586,
+    "height": 797
+  },
+  "/media/projects/industrial-shed-corlim-idc-2.jpg": {
+    "width": 700,
+    "height": 700
+  },
+  "/media/projects/ravindra-bhavan-1.jpg": {
+    "width": 1227,
+    "height": 920
+  },
+  "/media/projects/sarjyotishis-house-renovation-1.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/sarjyotishis-house-renovation-2.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/sarjyotishis-house-renovation-3.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/villas-verla-canca-1.jpg": {
+    "width": 1200,
+    "height": 1200
+  },
+  "/media/projects/villas-verla-canca-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/villas-verla-canca-3.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/villas-verla-canca-4.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/villas-verla-canca-5.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/villas-verla-canca-6.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/villas-verla-canca-7.jpg": {
+    "width": 1054,
+    "height": 571
+  },
+  "/media/projects/sherwyns-house-bastora-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/sherwyns-house-bastora-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/sherwyns-house-bastora-3.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/goa-sintered-products-verna-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/villas-at-verla-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/villa-at-siolim-1.jpg": {
+    "width": 1129,
+    "height": 696
+  },
+  "/media/projects/villa-at-siolim-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/exhaust-stack-tower-mopa-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/exhaust-stack-tower-mopa-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/bungalow-roof-ribandar-1.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/bungalow-roof-ribandar-2.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/radiology-roof-gmc-1.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/radiology-roof-gmc-2.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/shed-banda-pai-kane-1.jpg": {
+    "width": 839,
+    "height": 936
+  },
+  "/media/projects/shed-banda-pai-kane-2.jpg": {
+    "width": 550,
+    "height": 550
+  },
+  "/media/projects/exhaust-stack-tower-visakhapatnam-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/dry-mix-plant-banda-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/dry-mix-plant-banda-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/swimming-pool-design-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/swimming-pool-roof-campal-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/swimming-pool-roof-campal-2.jpg": {
+    "width": 1024,
+    "height": 768
+  },
+  "/media/projects/swimming-pool-roof-campal-3.jpg": {
+    "width": 1227,
+    "height": 540
+  },
+  "/media/projects/latambarcem-breweries-bicholim-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/latambarcem-breweries-bicholim-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/latambarcem-breweries-bicholim-3.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/latambarcem-breweries-bicholim-4.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/kia-showroom-verna-1.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/projects/kia-showroom-verna-2.jpg": {
+    "width": 500,
+    "height": 500
+  },
+  "/media/brand/formscape-global-logo-white.png": {
+    "width": 428,
+    "height": 100
+  }
+}
