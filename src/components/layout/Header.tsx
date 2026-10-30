@@ -19,7 +19,14 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 24);
+    // Stay transparent while a full-bleed dark scene (the pinned home scenes) is behind the header.
+    const onScroll = () => {
+      const underOverlay = Array.from(document.querySelectorAll("[data-header-overlay]")).some((el) => {
+        const r = el.getBoundingClientRect();
+        return r.top <= 80 && r.bottom > 80;
+      });
+      setScrolled(window.scrollY > 24 && !underOverlay);
+    };
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);

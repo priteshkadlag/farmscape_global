@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Archivo, Inter, JetBrains_Mono } from "next/font/google";
+import { DM_Sans, JetBrains_Mono, Manrope } from "next/font/google";
 import { company, siteUrl } from "@/content/site";
 import { organizationSchema } from "@/lib/seo";
 import { Header } from "@/components/layout/Header";
@@ -12,8 +12,8 @@ import "./globals.css";
 
 // "optional": the preloaded display face is used when it arrives in time; otherwise the
 // fallback stays, so large headings never reflow (no font-swap layout shift).
-const archivo = Archivo({ subsets: ["latin"], variable: "--font-archivo", display: "optional" });
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
+const manrope = Manrope({ subsets: ["latin"], variable: "--font-manrope", display: "optional" });
+const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans", display: "swap" });
 // Mono is only used for small annotations, so it is not preloaded.
 const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains", display: "swap", weight: ["400"], preload: false });
 
@@ -46,17 +46,19 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#121318",
+  themeColor: "#25282b",
   colorScheme: "light",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en-IN" className={`${archivo.variable} ${inter.variable} ${jetbrains.variable} antialiased`}>
-      <body className="flex min-h-svh flex-col">
+    // The home intro script sets data-intro on <html> before hydration, and browser extensions
+    // add attributes to <body>; neither is a real mismatch.
+    <html lang="en-IN" className={`${manrope.variable} ${dmSans.variable} ${jetbrains.variable} antialiased`} suppressHydrationWarning>
+      <body className="flex min-h-svh flex-col" suppressHydrationWarning>
         <a
           href="#main"
-          className="fixed left-4 top-4 z-100 -translate-y-24 bg-brand px-4 py-3 text-sm font-medium text-white transition-transform focus:translate-y-0"
+          className="fixed left-4 top-4 z-100 -translate-y-24 bg-lime px-4 py-3 text-sm font-medium text-ink transition-transform focus:translate-y-0"
         >
           Skip to content
         </a>

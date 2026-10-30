@@ -16,7 +16,7 @@ export function ScrollToTopButton() {
       aria-label="Scroll back to the top of the page"
     >
       Back to top
-      <span className="grid size-8 place-items-center bg-brand text-white transition-transform duration-300 group-hover:-translate-y-1">
+      <span className="grid size-8 place-items-center bg-lime text-ink transition-transform duration-300 group-hover:-translate-y-1">
         <ArrowUp className="size-4" strokeWidth={1.75} aria-hidden="true" />
       </span>
     </button>

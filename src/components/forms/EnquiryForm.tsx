@@ -358,7 +358,7 @@ export function EnquiryForm({ kind, idPrefix }: { kind: "contact" | "quote"; idP
         <button
           type="submit"
           disabled={submitting}
-          className="inline-flex min-h-12 items-center gap-3 bg-brand px-7 font-medium text-white transition-colors hover:bg-brand-700 disabled:cursor-wait disabled:opacity-70"
+          className="inline-flex min-h-12 items-center gap-3 bg-ink px-7 font-medium text-paper transition-colors hover:bg-brand disabled:cursor-wait disabled:opacity-70"
         >
           {submitting ? <LoaderCircle className="size-4 animate-spin" aria-hidden="true" /> : <Send className="size-4" aria-hidden="true" />}
           {submitting ? "Sending…" : kind === "quote" ? "Send quote request" : "Send message"}

@@ -4,10 +4,12 @@ import { ArrowUpRight } from "lucide-react";
 import { cn } from "@/lib/cn";
 import { Magnetic } from "./Magnetic";
 
-type Variant = "primary" | "light" | "outline" | "outline-light" | "ghost";
+type Variant = "primary" | "accent" | "light" | "outline" | "outline-light" | "ghost";
 
 const styles: Record<Variant, string> = {
-  primary: "bg-brand text-white hover:bg-brand-700",
+  primary: "bg-ink text-paper hover:bg-brand",
+  // Electric Lime is for dark surfaces only; it lacks contrast against ivory.
+  accent: "bg-lime text-ink hover:bg-paper",
   light: "bg-paper text-ink hover:bg-white",
   outline: "border border-ink/25 text-ink hover:border-ink hover:bg-ink hover:text-paper",
   "outline-light": "border border-white/30 text-white hover:border-white hover:bg-white hover:text-ink",

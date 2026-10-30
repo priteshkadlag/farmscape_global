@@ -7,6 +7,8 @@ export const company = {
   name: "Formscape Global",
   legalName: "Formscape Global",
   tagline: "Structural Engineering",
+  /** Brand line from the Poste and Co. identity (Oct 2026). */
+  brandLine: "Rethinking Structural Engineering",
   formerName: "M/S. Nayan Fatania & Associates",
   rebrandYear: 2024,
   /**
